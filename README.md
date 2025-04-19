@@ -1,4 +1,4 @@
-# Europe_climate_data 
+# Europe_climate_data
 
 ## A poject in tableau looking at how worried the general poulation are about climate change and what should be done to improve it. Using a dataset given during a bootcamp project
 
