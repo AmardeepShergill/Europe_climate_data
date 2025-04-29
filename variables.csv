@@ -1,5 +1,5 @@
 Name,Label,Country_specific,Scale_type,Type,Format,Valid,Invalid,Question,Group
-cntry,Country,no,nominal,discrete,character-2,44387,0,5 Country,Group Country
+cntry,Country,no,nominal,discrete,character-2,44387,0,5 Country,Group Country 
 dweight,Design weight,no,continuous,continuous,numeric-4.2,44387,0,R17 Design weight,Group Weights
 pspwght,Post-stratification weight including design weight,no,continuous,continuous,numeric-4.2,44387,0,R18 Post-stratification weight including design weight,Group Weights
 pweight,Population size weight (must be combined with dweight or pspwght),no,continuous,continuous,numeric-8.2,44387,0,R19 Population size weight (must be combined with dweight or pspwght),Group Weights
