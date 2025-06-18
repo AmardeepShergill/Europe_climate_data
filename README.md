@@ -11,16 +11,16 @@ The pie charts illustrate the main areas of concern, such as energy affordabilit
 1. General conclusions 
 The index shows that as a whole the majority of people surveyed are in either "Not Very Worried" and "Somewhat" categories, with a smaller number expressing a large amount of concern regarding climate change.
 
-2. Energy Generation 
+3. Energy Generation 
 For the concerns about the price and method of generating energy close to 70% of people show moderate or high concern, with the rise in energy prices since the survey was taken I can only imagine that this is now more. 
 55-60% of people expressed some amount of worry regarding their countries current reliance on fossil fuels with less than 5%  showing the top level of concern.
 A majority of people (65%) have some form of concern in relation to energy imports this has been further highlighted more recently with the conflict in Ukraine and how this has effected imports from Russia.
 
-3.  Power availablity issues
+4.  Power availablity issues
 45% of people surveryed showed some degree of concern about there being insufficient power availability though a smaller number of respondents are extremely worried about this.
 When is came to power cuts over 35% of respondents had either of moderate or high level of concern about this being something that may increase
 
-4. Potential Risks to the power supply
+5. Potential Risks to the power supply
 
 
 Technical Failures: Concerns about technical failures are moderate, with around 47% showing worry.
