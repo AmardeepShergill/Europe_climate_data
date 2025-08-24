@@ -2,7 +2,7 @@
 
 ## A poject in tableau looking at how worried the general poulation are about climate change and what should be done to improve it. Using a dataset given during a bootcamp project
 
-## Worriedness dashboard
+## How worried are you dashboard
 This dashboard give a general overview of what the members of the public surveyed believe are the largest issues facing them as related to climate change. These relate to some main areas of concern such as affordability, reliance on fossil fuels and other areas that could affect power output.
 
 The pie charts illustrate the main areas of concern, such as energy affordability, reliance on fossil fuels, energy imports, and power cuts. The bar charts further break down specific threats that would cause the concern like natural disasters, insufficient power, technical failures, and terrorism.
