@@ -22,7 +22,6 @@ When is came to power cuts over 35% of respondents had either of moderate or hig
 
 5. Potential Risks to the power supply
 
-
 Technical Failures: Concerns about technical failures are moderate, with around 47% showing worry.
 Terrorist Attacks: This category shows similar levels of concern, with 25-30% moderately worried, but most extreme worry compared to other issues. I will need to look further into this to see if there is a specfic country where the worry is higher and why that would then be the case 
 Natural Disasters: Only about 5% show extreme worry about natural disasters, with the majority either "Not At All" or "Not Very Worried." 
